@@ -27,5 +27,5 @@ Module/Feature Doc creation:
     |---> Process Diagram
 6. Use cases (user activity) -- in detail 
     |
-    |---> Create detailed (don't spare anything) UI/UX screen needed for this system (provide refereces for better output/or how to design e.g. mention background color, 
-            appearance style) (no code but screenshot images of a system UI/UX)
+    |---> Create detailed (don't spare anything) UI/UX screen images for the system (provide refereces for better output/or how to design e.g. mention background color, 
+            appearance style) (no code, just screenshot images of a system UI/UX that will be in the doc)
