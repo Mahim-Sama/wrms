@@ -5,7 +5,7 @@ Manage the full lifecycle of the robot (coming into the warehouse till the time 
 Simulation (first choice CARLA)
 
 
-ToDo:
+ToDo (or Prmpt contents):
 
 Module/Feature
 --------------
@@ -19,7 +19,7 @@ list of scopes in the system (Score matrix: feature coverage from farm and phase
 
 Module/Feature Doc creation:
 1. Concept 
-2. Feature 
+2. Feature (doc/markdown of features) 
     ||                     |
 3. Storyline               |
 4. Features and Modules <--|
@@ -27,4 +27,5 @@ Module/Feature Doc creation:
     |---> Process Diagram
 6. Use cases (user activity) -- in detail 
     |
-    |---> Create all the UI/UX screen needed for this system (provide refereces for better output/or how to design e.g. mention background color, appearance style)
+    |---> Create detailed (don't spare anything) UI/UX screen needed for this system (provide refereces for better output/or how to design e.g. mention background color, 
+            appearance style) (no code but screenshot images of a system UI/UX)
