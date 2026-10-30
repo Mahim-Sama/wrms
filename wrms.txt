@@ -9,4 +9,22 @@ ToDo:
 
 Module/Feature
 --------------
-list of scopes in the system (Score matrix: feature coverage from farm and phase type)
+list of scopes in the system (Score matrix: feature coverage from farm and phase type/complete 'storyline' of the system)
+                                                                                ||
+                                                                                System details
+                                                                                ||
+                                                                                Process and functions by Module
+                                                                                ||
+
+
+Module/Feature Doc creation:
+1. Concept 
+2. Feature 
+    ||                     |
+3. Storyline               |
+4. Features and Modules <--|
+5. Process and Functions (create very detailed functions -- miss none)
+    |---> Process Diagram
+6. Use cases (user activity) -- in detail 
+    |
+    |---> Create all the UI/UX screen needed for this system (provide refereces for better output/or how to design e.g. mention background color, appearance style)
