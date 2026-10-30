@@ -1,0 +1,12 @@
+Warehouse robot management
+
+Manage the full lifecycle of the robot (coming into the warehouse till the time it expires) not the movements
+
+Simulation (first choice CARLA)
+
+
+ToDo:
+
+Module/Feature
+--------------
+list of scopes in the system (Score matrix: feature coverage from farm and phase type)
